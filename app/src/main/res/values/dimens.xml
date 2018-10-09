@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_margin_16">16dp</dimen>
+    <dimen name="item_margin_50">50dp</dimen>
+    <dimen name="font_size_16">16sp</dimen>
+    <dimen name="item_margin_8">8dp</dimen>
+    <dimen name="item_margin_20">20dp</dimen>
+</resources>
